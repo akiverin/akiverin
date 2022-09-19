@@ -65,3 +65,14 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-%23007ACC?style=flat-square&logo=flutter)
 ![Django](https://img.shields.io/badge/-Django-%0a2f20?style=flat-square&logo=django)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat-square&logo=markdown)
+  
+  <h2>My Designer Stack</h2>
+  
+  ![Figma](https://img.shields.io/badge/-Figma-000?style=flat-square&logo=figma&logoColor=ffffff)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-eee?style=flat-square&logo=adobe-photoshop)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-eee?style=flat-square&logo=adobe-illustrator)
+  ![InDesign](https://img.shields.io/badge/-InDesign-000?style=flat-square&logo=adobe-indesign)
+  ![XD](https://img.shields.io/badge/-XD-eee?style=flat-square&logo=adobe-xd)
+  ![Lightroom](https://img.shields.io/badge/-Lightroom-eee?style=flat-square&logo=adobe-xd)
+  ![After Effects](https://img.shields.io/badge/-AfterEffects-eee?style=flat-square&logo=adobe-after-effects)
+  
