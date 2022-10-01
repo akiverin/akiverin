@@ -21,28 +21,31 @@
 <h2>My achievements</h2>
 <ul>
   <li>
-    Participation in the international scientific and practical conference "New trends in the development of modern Russia" and publication of a scientific and practical article in the collection of the Russian State Social University;
+    🏅 Participation in the international scientific and practical conference "New trends in the development of modern Russia" and publication of a scientific and practical article in the collection of the Russian State Social University;
   </li>
   <li>
-    Victory in the 5th International competition for the best scientific work for graduate students, students and schoolchildren of Moscow State University;
+    🥇 Victory in the 5th International competition for the best scientific work for graduate students, students and schoolchildren of Moscow State University;
   </li>
   <li>
-    1st place in the International competition of scientific and practical works and projects within the framework of the international conference "Digital Transformation of Society: trends and prospects" of Moscow Polytechnic University;
+    🥇 1st place in the International competition of scientific and practical works and projects within the framework of the international conference "Digital Transformation of Society: trends and prospects" of Moscow Polytechnic University;
   </li>
   <li>
-    3rd degree in the International Competition of scientific and practical works and projects within the framework of the 4th International Scientific Forum of Faculty and Young Scientists "Digital technologies: science, education, innovation";
+    🥉 3rd degree in the International Competition of scientific and practical works and projects within the framework of the 4th International Scientific Forum of Faculty and Young Scientists "Digital technologies: science, education, innovation";
   </li>
   <li>
-    1st place in the III International competition of scientific and practical works "IT projects "Digital transformation"";
+    🥇 1st place in the III International competition of scientific and practical works "IT projects "Digital transformation"";
   </li>
   <li>
-    Grand Prix in the XVII annual International Scientific and practical session "Science Week of Youth of the North-Eastern Administrative District of Moscow";
+    🏆 Grand Prix in the XVII annual International Scientific and practical session "Science Week of Youth of the North-Eastern Administrative District of Moscow";
   </li>
   <li>
-    1st place in the XIII International Conference of Faculty and Young Scientists "Information Technologies, Systems and Cybersecurity issues";
+    🥇 1st degree in the XIII International Scientific and Practical Conference of doctoral students, undergraduates and students "Youth, science, education: current issues, achievements and innovations", dedicated to the 155th anniversary of the birth of Kazakh educator and public figure Akhmet Baitursynov;
   </li>
   <li>
-    1st place in the All-Russian conference of faculty and Young Scientists "Digital World: Global challenges and trends".
+    🥇 1st place in the XIII International Conference of Faculty and Young Scientists "Information Technologies, Systems and Cybersecurity issues";
+  </li>
+  <li>
+    🥇 1st place in the All-Russian conference of faculty and Young Scientists "Digital World: Global challenges and trends".
   </li>
 </ul>
 <h2>My Technology stack</h2>
