@@ -45,7 +45,10 @@
     🥇 1st place in the XIII International Conference of Faculty and Young Scientists "Information Technologies, Systems and Cybersecurity issues";
   </li>
   <li>
-    🥇 1st place in the All-Russian conference of faculty and Young Scientists "Digital World: Global challenges and trends".
+    🥇 1st place in the All-Russian conference of faculty and Young Scientists "Digital World: Global challenges and trends";
+  </li>
+  <li>
+    🥉 3rd place in the III All-Russian Legal Case Championship "Expert+".
   </li>
 </ul>
 <h2>My Technology stack</h2>
