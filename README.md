@@ -48,7 +48,13 @@
     🥇 1st place in the All-Russian conference of faculty and Young Scientists "Digital World: Global challenges and trends";
   </li>
   <li>
-    🥉 3rd place in the III All-Russian Legal Case Championship "Expert+".
+    🥉 3rd place in the III All-Russian Legal Case Championship "Expert+";
+  </li>
+  <li>
+    🥇 1st degree in the V International Scientific-Practical Conference "Forum of young researchers" & publication in the collection of conference articles;
+  </li>
+  <li>
+    📃 Publication of an article in the Proceedings of the XXXIII International Scientific-Practical Conference "Prevention. Saving. Assistance".
   </li>
 </ul>
 <h2>My Technology stack</h2>
