@@ -13,11 +13,8 @@
 		<p align="center">
 		</p>
 		<div align="center"> 
-			<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiverin&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Andrew Kiverin Language stats" />
-			<img height=259 src="https://github-readme-stats.vercel.app/api?username=akiverin&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Andrew Kiverin Github stats" />
-		</div>
-		<div align="center">
-			<img src="http://github-readme-streak-stats.herokuapp.com?user=akiverin&theme=transparent&hide_border=true&border_radius=8" alt="GitHub Streak" />
+			<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiverin&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="Andrew Kiverin Language stats" />
+			<img height=259 src="https://github-readme-stats.vercel.app/api?username=akiverin&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&show_icons=true&cache_seconds=86400&theme=transparent" alt="Andrew Kiverin Github stats" />
 		</div>
 		<br />
 	</div>
@@ -67,9 +64,11 @@
 		<img alt="InDesign" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign3.svg" />
 		<img alt="XD" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg" />
 		<img alt="AfterEffects" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects3.svg" />
+		<img alt="Blender" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg" />
 	</div>
 	<div>
-		<h2>My achievements</h2>
+		<details>
+		<summary><h2>My science achievements</h2></br></summary>
 		<table>
 			<tr>
 				<td width="50%" valign="top">
@@ -97,5 +96,6 @@
 				</td>
 			</tr>
 		</table>
+		</details>
 	</div>
 </div>
